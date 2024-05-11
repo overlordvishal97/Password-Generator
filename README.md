@@ -18,4 +18,4 @@ The script provides two options:
 
 ## Usage
 
-python password_generator.py
+python main.py
